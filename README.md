@@ -1,4 +1,8 @@
 # FİZİK İÇİN VERİLEN YEMEK TARİFİ VE VÜCUT KİTLE İNDEKSİ BELİRTME ÖDEVİ:
+#### EMRE BURHAN
+#### HÖKELEK
+#### 9/E 
+#### 181
 
 # ***ELMA MARMELATLI KEK TARİFİ***
 ![](https://github.com/EmreBurhan/9Fizik/blob/master/kek.jpeg?raw=true)
